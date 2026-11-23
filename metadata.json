@@ -1,0 +1,8 @@
+{
+  "name": "Remix Học Tiếng Anh Nghề Nghiệp",
+  "description": "Ứng dụng học từ vựng và bài tập tiếng Anh chủ đề nghề nghiệp với phông chữ Times New Roman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
